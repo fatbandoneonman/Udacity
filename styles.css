@@ -1,0 +1,45 @@
+.container{
+    max-width: 310px;
+    border: 2px solid black;
+    box-shadow: 6px 4px;
+    padding: 10px;
+    background-color:white;
+    font-family: "palatino", serif;
+}
+h3{
+    font-weight: bold;
+    font-size: 20pt;
+    border: 1px inset black;
+    margin: 4px;
+    border: 4px;
+    padding: 4px;
+    
+}
+img{
+    max-width: 300px;
+    border: 1px inset black;
+    margin: 2px;
+    border: 2px;
+    padding: 2px;
+}
+.text{
+    border: thin solid black;
+    margin: 4px;
+    border: 4px;
+    padding: 4px;
+    font-size: 11pt;
+    
+
+}
+.interesting{
+    font-style: italic;
+}
+ul{
+    text-align: left;
+    list-style: none;
+    padding-left: 0pt;
+}
+li span{
+    font-weight: bold;
+    font-size: 13pt;
+}
